@@ -1,0 +1,1 @@
+Rails.logger.info("MY_CUSTOM_VARIABLE=#{ENV['MY_CUSTOM_VARIABLE']}")
